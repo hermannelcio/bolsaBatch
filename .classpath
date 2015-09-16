@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="/Users/hermannelcioanniesgruber1/Documents/workspace/jars/mysql-connector-java-commercial-5.1.36-bin.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/hermannelcioanniesgruber1/Documents/workspace/jars/avro-1.7.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/hermannelcioanniesgruber1/Documents/workspace/jars/commons-compress-1.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/hermannelcioanniesgruber1/Documents/workspace/jars/antlr-3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/hermannelcioanniesgruber1/Documents/workspace/jars/dom4j-1.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/hermannelcioanniesgruber1/Documents/workspace/jars/jta-4.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/hermannelcioanniesgruber1/Documents/workspace/jars/commons-beanutils-core-1.7.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/hermannelcioanniesgruber1/Documents/workspace/jars/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/hermannelcioanniesgruber1/Documents/workspace/jars/hibernate-commons-annotations-4.0.5.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/hermannelcioanniesgruber1/Documents/workspace/jars/hibernate-core-4.3.5.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/hermannelcioanniesgruber1/Documents/workspace/jars/hibernate-entitymanager-4.3.5.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/hermannelcioanniesgruber1/Documents/workspace/jars/jackson-core-asl-1.9.13.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/hermannelcioanniesgruber1/Documents/workspace/jars/jackson-mapper-asl-1.9.13.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/hermannelcioanniesgruber1/Documents/workspace/jars/jandex-1.1.0.final.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/hermannelcioanniesgruber1/Documents/workspace/jars/javassist-3.18.1-GA.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/hermannelcioanniesgruber1/Documents/workspace/jars/jboss-logging-3.1.4.GA.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/hermannelcioanniesgruber1/Documents/workspace/jars/jboss-logging-annotations-1.2.0.beta1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/hermannelcioanniesgruber1/Documents/workspace/jars/jsr250-api-1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/hermannelcioanniesgruber1/Documents/workspace/jars/lucene-core-3.6.2-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/hermannelcioanniesgruber1/Documents/workspace/jars/paranamer-2.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/hermannelcioanniesgruber1/Documents/workspace/jars/slf4j.api-1.6.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/hermannelcioanniesgruber1/Documents/workspace/jars/xml-apis-1.3.03.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/hermannelcioanniesgruber1/Documents/workspace/jars/javax.transaction-3.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/hermannelcioanniesgruber1/Documents/workspace/jars/javax.persistence-2.1.0-rc1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/hermannelcioanniesgruber1/Documents/workspace/jars/antlr-runtime-3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
